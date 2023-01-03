@@ -1,0 +1,17 @@
+.bg-light {
+  background-color: #e6e6e6 !important;
+}
+
+.bg-secondary {
+  background-color: #7f9196 !important;
+}
+
+.text-secondary {
+  color: #42636c !important;
+}
+
+.detail-image {
+  height: 250px;
+  object-fit: cover;
+  width: 250px;
+}
