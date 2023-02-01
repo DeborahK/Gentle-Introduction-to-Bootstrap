@@ -7,10 +7,10 @@ Links to the courses in this "How to Become a Web Developer" series (YouTube):
 
 ["Gentle Introduction to HTML for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCpmPEZIkblP-0sNufXbvXJL)
 
-["Gentle Introduction to GitHub and GitHub Pages for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq)
+["Gentle Introduction to GitHub for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq)
 
 ["Gentle Introduction to CSS for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf)
 
-["Gentle Introduction to Bootstrap for Beginners" (in progress)]()
+["Gentle Introduction to Bootstrap for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCr47pRGOswKcgzGyetNRdHZ)
 
-["Gentle Introduction to JavaScript for Beginners" (in progress)]()
+["Gentle Introduction to JavaScript for Beginners"](https://www.youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A)
